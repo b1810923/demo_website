@@ -114,6 +114,8 @@ export default {
   --website-dark-color: #f49d14;
   --title-line-color: #f39b08;
   --contact-ori-color: rgba(243,155,8,0.3);
+  --blockbtn-ori-color: rgb(25, 41, 129);
+  --blockbtn-hover-color:midnightblue;
 }
 html{
   font-size: 14px;
