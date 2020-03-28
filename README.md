@@ -1,4 +1,4 @@
-# sunstige_website
+# demo_website
 
 ## Project setup
 ```
